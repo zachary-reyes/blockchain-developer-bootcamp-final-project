@@ -1,7 +1,7 @@
 
 # blockchain-developer-bootcamp-final-project
 
-    I am still very new to this space and this idea ma evolve but for now...
+    I am still very new to this space and this idea may evolve but for now...
 
 ## Final Project Proposal: In-Game Exclusive NFTs
 
