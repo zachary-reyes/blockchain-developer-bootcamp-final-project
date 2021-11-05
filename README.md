@@ -18,3 +18,8 @@
 ## SCAFFOLD/PIVOT??
 
 So I am very behind and having conflicting ideas. I have been asked recently to help start a DAO so I kind of want to pivot my idea in that direction. I will simply submit my url for scaffolding credit and hope the DAO and remaining sections can give me a better idea of where to go.
+
+## Front-End
+
+Again...pretty behind...gonna sort of skip this and go through at least the DAO chapter as that is what I am maybe planning to build...will probably use React to do so...also like Scaffold-Eth as well as Compound JS
+
