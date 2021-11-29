@@ -93,7 +93,7 @@ class App extends Component {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-              <h1>Issue Token</h1>
+              <h1>Mint your Favorite Color!</h1>
                 <form onSubmit={(event) => {
                   event.preventDefault()
                   const color = this.color.value
