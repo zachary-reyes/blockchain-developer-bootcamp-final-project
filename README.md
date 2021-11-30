@@ -29,6 +29,7 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 - Spin up Ganache instance and import first account into metamask wallet
 - Switch Metamask network to Ganache (see below)
 - Run `npm install -g truffle@5.0.5` in project root. 
+- Run `npm install`
 **Very important that this specific Truffle version is used**
 - Run `truffle migrate` and `truffle test` to deploy smart contracts and run local tests 
 - Open new tab in the terminal, and in the project root directory, run the development server with `npm run start`. If page does not automatically load in your browser, navigate to http://localhost:3000/
