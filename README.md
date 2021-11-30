@@ -25,6 +25,7 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 - Optional but helpful: IDE or Text editor of choice (I prefer [VScode](https://code.visualstudio.com/download)!)
 
 ### Contracts
+- Clone repo
 - Spin up Ganache instance and import first account into metamask wallet
 - Switch to Ganache network
 - Run `npm install -g truffle@5.0.5` in project root. 
