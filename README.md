@@ -27,7 +27,7 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 ### Contracts
 - Clone repo
 - Spin up Ganache instance and import first account into metamask wallet
-- Switch to Ganache network
+- Switch Metamask network to Ganache (see below)
 - Run `npm install -g truffle@5.0.5` in project root. 
 **Very important that this specific Truffle version is used**
 - Run `truffle migrate` and `truffle test` to deploy smart contracts and run local tests 
