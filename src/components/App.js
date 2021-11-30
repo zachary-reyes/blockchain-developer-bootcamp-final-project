@@ -100,7 +100,7 @@ class App extends Component {
                   this.mint(color)
                 }}>
                   <input
-                    type='text'
+                    type='color'
                     className='form-control mb-1'
                     placeholder='e.g. #FFFFFF'
                     ref={(input) => { this.color = input }}
