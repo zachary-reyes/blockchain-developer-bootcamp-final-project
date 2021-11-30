@@ -108,7 +108,7 @@ class App extends Component {
                   <input
                     type='submit'
                     className='btn btn-block btn-primary'
-                    value='MINT'
+                    value='MINT (and then refresh the page!!!!)'
                   />
                 </form>
               </div>

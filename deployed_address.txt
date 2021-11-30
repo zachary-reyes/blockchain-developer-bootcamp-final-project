@@ -1,0 +1,6 @@
+testnet address: 
+ran out of time...would have probably used Ropsten test network and infura but hope that I can just add this later on my own time
+for now I am just having the user import a Ganache account into there wallet for local testing 
+also was having trouble setting up the dotenv file for this stuff
+
+network: Ganache

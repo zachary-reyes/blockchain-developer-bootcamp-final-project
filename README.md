@@ -18,11 +18,11 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 ## Local Project Setup
 
 ### Prerequisites
-- Chrome || Brave Browser 
-- MetaMask browser extension (This is how we talk to the blockchain!)
-- Node.js && npm (download LTS from nodejs.org)
-- Ganache GUI (Personal Blockchain for Testing) && Truffle Framework (Makes it easy to develop Ethereum smart contracts in Solidity) trufflesuit.com
-- Optional but helpful: IDE or Text editor of choice (I prefer VScode!)
+- Chrome or Brave Browser 
+- [MetaMask](https://metamask.io/faqs.html) browser extension 
+- Node.js and npm (download [LTS](nodejs.org))
+- Ganache [GUI](https://trufflesuite.com/ganache) and Truffle Framework (Make sure to use version specified below)
+- Optional but helpful: IDE or Text editor of choice (I prefer [VScode](https://code.visualstudio.com/download)!)
 
 ### Contracts
 - Run `npm install -g truffle@5.0.5` in project root. 
@@ -35,6 +35,16 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 ([Ganache](https://dapp-world.com/blogs/01/how-to-connect-ganache-with-metamask-and-deploy-smart-contracts-on-remix-without-1619847868947)) network
 - Import the first account from Ganache into your Metamask wallet
 *This seemed easier to me than using a public testnet where one has to scavenge for testETH faucets*
+- **IMPORTANT NOTE: USER MUST MANUALLY REFRESH THE PAGE AFTER CONFIRMING METAMASK TRANSACTION TO SEE STATE CHANGES**
+
+## Directory Structure
+- `build`: created with deployment to github pages
+- `migrations`: Migration files for deploying contracts
+- `src`: contains `abis`, `components`, and `contracts` directories along with a few other files necessary for rendering the frontend  
+- `test`: 5 passing tests for smart contract 
+
+## Address for NFT Certification
+`0x691385FB77dc1390caEaBfd7564ca7e1F9f65B7D`
 
 
 
