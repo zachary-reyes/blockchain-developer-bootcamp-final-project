@@ -13,7 +13,7 @@ https://zachary-reyes.github.io/blockchain-developer-bootcamp-final-project/
 
 ## Screencast Project Walk-Through
 
-< INSERT LINK >
+https://www.loom.com/share/4ee65fc5e6aa4e389d1d716c85b80820
 
 ## Local Project Setup
 
